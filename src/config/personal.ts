@@ -13,7 +13,7 @@ export const socialLinks: SocialLink[] = [
   },
   {
     platform: 'email',
-    url: 'mailto:lalitmohan.engineer@gmail.com',
+    url: 'mailto:lalitmohan7250@gmail.com',
     label: 'Email'
   }
 ];
@@ -21,7 +21,7 @@ export const socialLinks: SocialLink[] = [
 export const personalInfo: PersonalInfo = {
   name: 'Lalit Mohan',
   title: 'Full Stack & ML Engineer',
-  email: 'lalitmohan.engineer@gmail.com',
+  email: 'lalitmohan7250@gmail.com',
   bio: 'I build intelligent systems that bridge the gap between robust software architecture and machine intelligence.',
   availability: 'Open for collaborations',
   location: 'India',
